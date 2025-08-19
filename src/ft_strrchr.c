@@ -13,7 +13,7 @@
 #include "libft.h"
 
 char	*ft_strrchr(const char *s, int c)
-{		
+{
 	unsigned char	*end_ptr;
 	unsigned char	*start_ptr;
 

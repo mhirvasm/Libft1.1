@@ -13,7 +13,6 @@
 #ifndef GET_NEXT_LINE_BONUS_H
 # define GET_NEXT_LINE_BONUS_H
 
-
 # ifndef MAX_FD
 #  define MAX_FD 1024
 # endif
